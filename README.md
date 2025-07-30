@@ -81,7 +81,7 @@ AI-assisted dermatology prototypes
 HealthTech hackathons or student AI projects
 
 🙋‍♀️ Developed by
-Jeysri v 
+Jeysri V 
 🎓 4th-year B.Tech IT Student
 💻 Passionate about AI, Full Stack Development, and HealthTech
 
