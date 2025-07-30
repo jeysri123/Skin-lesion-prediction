@@ -81,11 +81,11 @@ AI-assisted dermatology prototypes
 HealthTech hackathons or student AI projects
 
 🙋‍♀️ Developed by
-Harini A 
-🎓 3rd-year B.Tech IT Student
+Jeysri V
+🎓 4th-year B.Tech IT Student
 💻 Passionate about AI, Full Stack Development, and HealthTech
 
-<p align="left"> <a href="https://www.linkedin.com/in/harini-a-9a014925a" target="_blank">🌐 LinkedIn</a> • <a href="https://harinii2415.github.io" target="_blank">💼 Portfolio</a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jeysri-v-84448725a/" target="_blank">🌐 LinkedIn</a> • <a href="https://github.com/jeysri123" target="_blank">💼 Portfolio</a> </p>
 🛑 Disclaimer
 ⚠️ This is a demo tool and does not provide medical advice.
 For accurate diagnosis and treatment, consult a medical professional.
